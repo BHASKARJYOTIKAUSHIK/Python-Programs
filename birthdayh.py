@@ -6,7 +6,7 @@ import os
 
 # Birthdays should be written in this file in the format: "MonthDay Name Surname" (Without Quotes)
 
-birthdayFile = 'birthdayh.txt'
+birthdayFile = 'birthdayh1.txt'
 
 def checkTodaysBirthdays():
     fileName = open(birthdayFile, 'r')
